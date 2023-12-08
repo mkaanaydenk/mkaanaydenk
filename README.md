@@ -1,3 +1,11 @@
+<h2 align="left">Join the Closed Test</h2>
+
+###
+
+<p align="left">You can join the closed testing process to support my QR code app in the Play Store. Contact me with your Play Store email address.</p>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
