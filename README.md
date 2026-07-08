@@ -1,6 +1,3 @@
-<h2 align="left">Join the Closed Test</h2>
-
-###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
