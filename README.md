@@ -1,41 +1,26 @@
+# Hello 👋, I'm Mehmet Kaan Aydenk
 
-<h1 align="left">Hey 👋 What's up?</h1>
+I am a developer who has been in IT and technology since my childhood years when I learned to produce and discover, and who is constantly learning with my Android development and dotnet curiosity.
 
-###
+## Skills
 
-<p align="left">I am a junior developer who has been in IT and technology since my childhood years when I learned to produce and discover, and who is constantly learning with my Android development curiosity.</p>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+</p>
 
-###
+## GitHub Stats
 
-<h2 align="left">I code with</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=mkaanaydenk&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaanaydenk&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkaanaydenk&theme=default" alt="GitHub Streak" />
 
-###
+## GitHub Trophies
 
-<h2 align="left">Contact me</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=mkaanaydenk" alt="trophy" />
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mkaanaydenk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mehmetkaan-55@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
